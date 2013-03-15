@@ -1,0 +1,12 @@
+web1: 
+  name: wp-web 
+  shared_writable_dirs:
+    - wp-content/uploads/
+    - wp-content/themes/smartit/timthumb_cache
+    - wp-content/themes/smartit/css/writable/
+  php_extensions:
+    - mysql
+    - apc
+    - gd    
+db1:
+  name: wp-db
