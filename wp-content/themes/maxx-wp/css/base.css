@@ -711,9 +711,10 @@ a.read-more:active{
 #footer-extra-wrapper img{
 	vertical-align:text-bottom
 }
-#footer-widget-wrapper .widget ul li{
+/*Commented Out for links in footer*/
+/*#footer-widget-wrapper .widget ul li{
 	background-image:url(../images/dark-sp.png);
-}
+}*/
 #footer-widget-wrapper input[type="text"],#footer-widget-wrapper .widget-contact input[type="text"],#footer-widget-wrapper .widget-contact input[type="email"],#footer-widget-wrapper .widget-contact textarea{
 	background:#333;
 	background:rgba(0,0,0,.2);
