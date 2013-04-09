@@ -111,6 +111,12 @@
 						
                 <!--/logo-->
                 
+                <!-- CUSTOM -->
+
+                 <p class="phone">Call <span>866.427.4258</span></p>
+                 <div class="users"><a href="/courier-services/open-an-account/" class="maxx-primary-button small">Create Account</a><a href="/client-login/" class="maxx-primary-button small">Client Login</a></div>
+
+                <!-- END CUSTOM -->
                 
                 <?php if($data['md_show_social_network']){?>
                 <div id="social-network" class="social-network float-right">

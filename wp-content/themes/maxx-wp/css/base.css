@@ -1668,3 +1668,10 @@ body{
 	box-shadow:0 0 30px rgba(0,0,0,.4);	
 	
 }
+
+/* CUSTOM */
+.phone 			{position:absolute; top:0px; right:0px; font-size:14px; color:#000;}
+.phone span 	{font-size:20px;}
+.users 			{position:absolute; top:0; right:0;}
+.users a 		{margin:0; padding:0;}
+
