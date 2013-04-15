@@ -1671,8 +1671,8 @@ body{
 }
 
 /* CUSTOM */
-.phone 			{position:absolute; top:20px; right:0px; font-size:20px; color:#000;}
+.phone 			{float:right; font-size:20px; color:#000;}
 .phone span 	{font-size:28px;}
-.users 			{position:absolute; top:60px; right:0;}
+.users 			{float:right; clear:right;}
 .users a 		{margin:0 0 0 10px;}
 
